@@ -9,7 +9,7 @@ app = FastAPI()
 ALLOWED_ORIGIN = "https://dash-aji2l6.example.com"
 
 # ✅ YOUR email address — change this!
-YOUR_EMAIL = "your-email@example.com"
+YOUR_EMAIL = "23f3001843@ds.study.iitm.ac.in"
 
 
 @app.middleware("http")
