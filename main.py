@@ -7,7 +7,7 @@ from fastapi.responses import JSONResponse
 # -------------------------------------------------------
 # EDIT THIS: paste your actual student email and allowed origin
 MY_EMAIL = "23f3001843@ds.study.iitm.ac.in"
-ALLOWED_ORIGIN = "https://my-metrics.example.workers.dev"
+ALLOWED_ORIGIN = "https://dash-aji2l6.example.com"
 # -------------------------------------------------------
 
 app = FastAPI()
